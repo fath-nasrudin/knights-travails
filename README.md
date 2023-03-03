@@ -1,4 +1,4 @@
-# Knights Traversails
+# Knights Travails
 
 ## Description
 
